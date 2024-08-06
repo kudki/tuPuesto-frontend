@@ -1,2 +1,2 @@
 # tuPuesto-frontend
-Front end  del proyecto tu turno
+Front end  del proyecto tu puesto
