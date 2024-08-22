@@ -1,0 +1,15 @@
+.logo{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 100px;
+    height:auto;
+    margin-top: 50px;
+}
+.titulo{
+    text-align: center;
+}
+
+ion-avatar{
+--border-radius: 4px;
+}
