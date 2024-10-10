@@ -1,2 +1,2 @@
 # tuPuesto-frontend
-Front end  del proyecto tu puesto
+Front end  del proyecto TuPuesto.cl
